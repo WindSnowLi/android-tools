@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoadingDialog</string>
+    <string name="loading">正在加载</string>
+    <string name="hide">隐藏</string>
+    <string name="show">显示</string>
+</resources>
